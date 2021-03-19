@@ -1,0 +1,9 @@
+// Tell the BabeUS transpiler which presets and/or plugins to use
+
+//Here we are telling Babel that we are using es-2015 (es05) preset
+//A preset is a set of transformations wich something should go 
+//through so that it's converted to something else
+
+{
+    "presets": [ "es2015" ]
+}
