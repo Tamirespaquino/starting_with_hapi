@@ -1,0 +1,4 @@
+Here, we tell Git what all to ignore
+We want to exclude node_modules folder 
+
+/node_modules

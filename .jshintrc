@@ -1,0 +1,6 @@
+// tell our linter (JSHint) what all we expect from it
+//We are just saying that we'll use ES2015
+
+{
+    "esnext": true
+}
