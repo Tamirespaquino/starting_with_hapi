@@ -1,0 +1,30 @@
+{
+  "name": "First project with Hapi.js",
+  "version": "1.0.0",
+  "description": "Getting started with Hapi.js - Part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bootstrap.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tamirespaquino/starting_with_hapi.git"
+  },
+  "author": "Tamires Pedrali de Aquino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tamirespaquino/starting_with_hapi.git"
+  },
+  "homepage": "https://github.com/Tamirespaquino/starting_with_hapi.git",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "hapi": "^18.1.0",
+    "hapi-auth-jwt": "^4.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.95.2",
+    "mysql": "^2.18.1",
+    "node": "^15.10.0"
+  }
+}
